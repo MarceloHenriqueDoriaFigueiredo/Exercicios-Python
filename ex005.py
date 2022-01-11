@@ -1,16 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Joãozinho, um piscicultor, deseja aumentar sua produção e para isso precisa
-# recorrer a um empréstimo. Um Banco concederá crédito aos seus clientes de
-#acordo com a produção do ano anterior. Faça um algoritmo que leia o valor
-# da produção e calcule e imprima o valor do crédito de acordo com a tabela
-# abaixo.
-#
-# Produção                                 valor
-# Até R$ 120.000,00                        25%
-# de R$ 120.000,01 até 500.000,00          30%
-# A partir de R$ 500.000,01                45%
-
 informe_producao = (float(input("informe o valor de produção: ")))
 
 if informe_producao >= 0 or informe_producao <= 120000:

@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Faça um algoritmo em Python para que leia dois números e imprima a soma, a subtração, a multiplicação e a divisão;
-
 n1 = (float(input("digite o primeiro numero: ")))
 n2 = (float(input("digite o segundo numero: ")))
 

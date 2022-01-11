@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Faça um algoritmo em Python para ler dois números inteiros e informar se,
-# estes números são iguais ou diferentes.
-
 numero_1 = (int(input("Digite o primeiro numero: ")))
 numero_2 = (int(input("Digite o segundo numero: ")))
 

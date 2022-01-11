@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Leia um número e, a partir dele, calcule a soma dos pares e a soma dos ímpares
-# menores ou iguais ao número lido
-
 numero = int(input("Informe um numero: "))
 soma_par = 0
 soma_impar = 0
